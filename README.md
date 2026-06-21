@@ -15,8 +15,6 @@ I build AI/ML systems from the ground up — from training transformers to wirin
 - **[RAG-Pipeline](https://github.com/tathagat-git/RAG-Pipeline)** — An end-to-end Retrieval-Augmented Generation pipeline for grounded LLM responses.
 - **[dns-monitor](https://github.com/tathagat-git/dns-monitor)** — A monitoring tool for DNS infrastructure, written in Go.
 
-*(Update these links/descriptions to match your actual repos — see notes below.)*
-
 ## 🛠️ Tech Stack
 
 `Python` · `Go` · `Jupyter Notebook` · LLMs / Transformers · RAG · DevOps tooling
@@ -27,9 +25,9 @@ I build AI/ML systems from the ground up — from training transformers to wirin
 
 ## 📫 Reach me
 
-- Portfolio / Blog: *https://tathagat-git.github.io/*
-- LinkedIn: *https://www.linkedin.com/in/tathagat-tathagat3460/*
-- Email: *tathagat615@gmail.com*
+- Portfolio / Blog: [tathagat-git.github.io](https://tathagat-git.github.io/)
+- LinkedIn: [tathagat-tathagat3460](https://www.linkedin.com/in/tathagat-tathagat3460/)
+- Email: [tathagat615@gmail.com](mailto:tathagat615@gmail.com)
 
 ---
 *Currently focused on deepening my AI/ML work while keeping my systems/DevOps skills sharp. Open to interesting collaborations and feedback on my projects.*
