@@ -27,9 +27,9 @@ I build AI/ML systems from the ground up — from training transformers to wirin
 
 ## 📫 Reach me
 
-- Portfolio / Blog: *add your link*
-- LinkedIn: *add your link*
-- Email: *add your email*
+- Portfolio / Blog: *https://tathagat-git.github.io/*
+- LinkedIn: *https://www.linkedin.com/in/tathagat-tathagat3460/*
+- Email: *tathagat615@gmail.com*
 
 ---
 *Currently focused on deepening my AI/ML work while keeping my systems/DevOps skills sharp. Open to interesting collaborations and feedback on my projects.*
