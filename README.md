@@ -15,11 +15,11 @@ AI/ML engineer building systems end-to-end — model architectures, RAG pipeline
 - **[RAG-Pipeline](https://github.com/tathagat-git/RAG-Pipeline)** — End-to-end Retrieval-Augmented Generation pipeline for grounded LLM responses.
 - **[nanocode+](https://github.com/tathagat-git/nanocode-plus)** — Single-file terminal coding agent: a tool-calling REPL over an OpenAI-compatible API (OpenRouter by default) that can plan a project into a task DAG, generate Python per step, write step READMEs, and auto-run pytest against generated code.
 - **[DevOps-AI-Agent](https://github.com/tathagat-git/DevOps-AI-Agent)** — AI agent automating DevOps workflows and infrastructure tasks.
-- **[dns-monitor](https://github.com/tathagat-git/dns-monitor)** — DNS infrastructure monitoring tool written in Go.
+
 
 ## 🛠️ Stack
 
-`Python` · `Go` · LLMs / Transformers · RAG · Tool-calling Agents · DevOps Automation
+`Python` · LLMs / Transformers · RAG · Tool-calling Agents · DevOps Automation
 
 ## 📈 GitHub Stats
 
