@@ -21,9 +21,6 @@ AI/ML engineer building systems end-to-end — model architectures, RAG pipeline
 
 `Python` · LLMs / Transformers · RAG · Tool-calling Agents · DevOps Automation
 
-## 📈 GitHub Stats
-
-![Tathagat's GitHub stats](https://github-readme-stats.vercel.app/api?username=tathagat-git&show_icons=true&theme=default)
 
 ## 📫 Reach me
 
