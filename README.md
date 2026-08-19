@@ -7,7 +7,7 @@ AI/ML engineer building systems end-to-end — model architectures, RAG pipeline
 - **LLMs & Model Architecture** — transformer design and training from scratch
 - **RAG Systems** — retrieval pipelines for grounded, production-ready LLM responses
 - **Agentic Tooling** — tool-calling LLM agents for coding and DevOps automation
-- **Backend & Infra** — Python/Go services, monitoring, and AI-assisted infra tooling
+- **Backend & Infra** — Python services, monitoring, and AI-assisted infra tooling
 
 ## 🚀 Projects
 
